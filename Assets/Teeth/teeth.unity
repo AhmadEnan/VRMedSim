@@ -15835,6 +15835,75 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43460bc1924ec9ad1a5b46831afa0b5e, type: 3}
+--- !u!1001 &1774540859
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -6689036041284674117, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_Name
+      value: charite_university_hospital_-_operating_room
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.041817
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.041817
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.041817
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -67.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -111.49166
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: -5645937942226959685, guid: 25f467789b1f8424b9ad99c8d7fb32fe, type: 3}
 --- !u!1 &1895458568
 GameObject:
   m_ObjectHideFlags: 0
@@ -21474,3 +21543,4 @@ SceneRoots:
   m_Roots:
   - {fileID: 1310231470}
   - {fileID: 2018591614}
+  - {fileID: 1774540859}
