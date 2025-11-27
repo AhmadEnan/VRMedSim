@@ -19,26 +19,16 @@
 ### 🫀 Cardiovascular System
 
 #### Heart Beat deformation
-<!-- Replace with actual screenshot/GIF -->
-> 🎬 **[GIF Placeholder: Animated beating heart with RBC flow visualization]**
-> 
-> *Real-time heart deformation with red blood cell circulation through coronary arteries*
+![](heart.gif)
 
 #### Blood Flow Dynamics
-<!-- Replace with actual screenshot/GIF -->
-> 🎬 **[GIF Placeholder: RBC particles flowing through arterial splines]**
-> 
-> *Physics-based blood cell particles following procedurally generated arterial pathways*
-
+![](blood_flow.gif)
 ---
 
 ### 🦷 Dental Procedures
 
 #### Interactive Tooth Extraction
-<!-- Replace with actual screenshot/GIF -->
-> 🎬 **[GIF Placeholder: User grabbing and extracting tooth with VR controllers]**
-> 
-> *State-machine driven dental simulation with haptic feedback and realistic physics*
+![](teeth_pull.gif)
 
 ---
 
@@ -317,6 +307,6 @@ furnished to do so.
 
 **Made with ❤️ for the future of medical education**
 
-[Report Bug](https://github.com/yourusername/VRMedSim/issues) • [Request Feature](https://github.com/yourusername/VRMedSim/issues) • [Documentation](Plan/)
+[Report Bug](https://github.com/AhmadEnan/VRMedSim/issues) • [Request Feature](https://github.com/AhmadEnan/VRMedSim/issues) • [Documentation](Plan/)
 
 </div>
