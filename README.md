@@ -218,6 +218,7 @@ File → Build Settings → Development Build [OFF] → Build
 | **Ziad Ashraf** | Soft Body | Flesh simulation, cutting mechanics |
 | **Hakeem Taha** | Dental Simulation | Tooth extraction, prosthetics, haptic feedback |
 | **Ahmed Anan** | Cardiovascular | Heart animation, arterial network, RBC visualization, blood vessel system |
+| **Yahya Ismail** | Soft Body | Nasal Cavity deformation |
 
 ### Contributing
 
