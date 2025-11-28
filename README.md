@@ -35,16 +35,13 @@
 ### 🩸 Soft Body Physics
 
 #### Real-Time Tissue Deformation
-<!-- Replace with actual screenshot/GIF -->
-> 🎬 **[GIF Placeholder: Soft body deformation during interaction]**
-> 
-> *GPU-accelerated soft body simulation for realistic tissue interactions*
+###### Simulating the nasal endoscope surgery 
+![](nasalCavityDeformation.gif)
+
+---
 
 #### Surgical Cutting Mechanics
-<!-- Replace with actual screenshot/GIF -->
-> 🎬 **[GIF Placeholder: Cutting simulation with visual feedback]**
-> 
-> *Dynamic mesh manipulation for surgical incision simulation*
+![](LiverCutting.gif)
 
 ---
 

@@ -5,9 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 2803d274fa9814643bc263f9a6513499
+  - enabled: 1
+    path: Assets/Scenes/Heart.unity
+    guid: e86371da3ffd5378b89edd1444c73b57
+  - enabled: 1
+    path: Assets/Scenes/Blood Flow.unity
+    guid: 7b83c32ee019c0b16891e6237f2a1c58
+  - enabled: 1
+    path: Assets/SoftBodyDev/SoftBody.unity
+    guid: 8c4f664c0c8cd8644a24817df2cca8a9
+  - enabled: 1
+    path: Assets/Teeth/teeth.unity
+    guid: f2fde3e05e66a064bb7221de055d4cfe
+  - enabled: 1
+    path: Assets/Scenes/Liver.unity
+    guid: 19932f76f3108c140a35271e528ab9a1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
